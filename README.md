@@ -1,2 +1,3 @@
 # Hangman
-Hangman Game
+Hangman Game. 
+To play, run the HangmanDriver file. 
